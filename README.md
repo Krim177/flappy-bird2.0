@@ -1,2 +1,2 @@
-# Flappy-bird2.0
+# Flappy-Bird2.0
 A Unity game designed to mimic the famous game - flappy bird
